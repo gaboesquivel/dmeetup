@@ -2,4 +2,7 @@
 Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 # technology
-EOS and IPFS
+- EOS
+- IPFS
+- React.js
+- Docker for the dev environment
