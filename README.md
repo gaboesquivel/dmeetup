@@ -9,7 +9,7 @@ Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 ## EOS Documentation
 
-Install Gollum and run the wiki locally (MacOS). 
+- Install Gollum and run the wiki locally (MacOS). 
 ```
 brew install rbenv ## https://github.com/rbenv/rbenv/
 git clone https://github.com/EOSIO/eos.wiki.git
@@ -17,8 +17,12 @@ rbenv global/local 2.5.1
 gem install gollum rdiscount --no-ri --no-rdoc
 gollum
 ```
+- https://github.com/EOSIO/eos/wiki 
 
-Or go to https://github.com/EOSIO/eos/wiki 
+## IPFS Documentation
+
+- [github.com/ipfs/ipfs#how-ipfs-works](https://github.com/ipfs/ipfs#how-ipfs-works)
+- [beta.docs.ipfs.io](https://beta.docs.ipfs.io)
 
 
 ## Getting Started
