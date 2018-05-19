@@ -7,9 +7,10 @@ Decentralized Version of Meetup with Token Incentives for the Community Members.
 - React.js
 - Docker for the dev environment
 
-## EOS Application Stack
+## EOS.io Application Stack
 
-![](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-application-stack.png)
+![](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-application-stack.png)  
+source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 
 ## EOS Documentation
 
