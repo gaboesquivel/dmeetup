@@ -1,11 +1,25 @@
 # dmeetup
 Decentralized Version of Meetup with Token Incentives for the Community Members.
 
-# technology
+# Technology
 - EOS
 - IPFS
 - React.js
 - Docker for the dev environment
+
+## EOS Documentation
+
+Install Gollum and run the wiki locally (MacOS). 
+```
+brew install rbenv ## https://github.com/rbenv/rbenv/
+git clone https://github.com/EOSIO/eos.wiki.git
+rbenv global/local 2.5.1
+gem install gollum rdiscount --no-ri --no-rdoc
+gollum
+```
+
+Or go to https://github.com/EOSIO/eos/wiki 
+
 
 ## Getting Started
 
