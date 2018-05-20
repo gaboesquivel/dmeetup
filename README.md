@@ -24,6 +24,11 @@ gollum
 ```
 - https://github.com/EOSIO/eos/wiki
 
+## EOS Storage
+
+- [5 Reasons Why EOS Storage Will Change Data Storage Forever](https://www.youtube.com/watch?v=7mFzb5SqS9U)
+- [EOS.IO Storage White Paper](https://steemit.com/eos/@eosio/eos-io-storage-white-paper-now-available)
+
 ## IPFS Documentation
 
 - [github.com/ipfs/ipfs#how-ipfs-works](https://github.com/ipfs/ipfs#how-ipfs-works)
