@@ -24,6 +24,10 @@ Decentralized Version of Meetup with Token Incentives for the Community Members.
 ![](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-application-stack.png)  
 source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 
+## Building EOS DApps 
+
+- [Webinar: Building Distributed Apps With EOS.IO Blockchain](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording)
+
 
 ## EOS Documentation
 
