@@ -1,6 +1,18 @@
 # dmeetup
 Decentralized Version of Meetup with Token Incentives for the Community Members.
 
+## Features
+### Phase 1
+- Accounts
+- User posts a meetup event and tags it 
+- User makes a reservation to the meetup event 
+- User votes up the meetup ( reputation )
+- Events feed with filters
+
+### Phase 2
+- User pays to rsvp the meetup
+- Token rewards for the speakers/organizers
+
 # Technology
 - EOS
 - IPFS
@@ -11,6 +23,7 @@ Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 ![](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-application-stack.png)  
 source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
+
 
 ## EOS Documentation
 
