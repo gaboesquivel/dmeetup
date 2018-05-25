@@ -19,6 +19,10 @@ Decentralized Version of Meetup with Token Incentives for the Community Members.
 - React.js
 - Docker for the dev environment
 
+## Why EOS ?
+
+[![Alt text](https://monosnap.com/image/CDcIfufeYs0rJPH2viNkCJSPV6bY4O.png)](https://www.youtube.com/watch?v=3kqkTYqTvDA)
+
 ## EOS.io Application Stack
 
 ![](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-application-stack.png)  
