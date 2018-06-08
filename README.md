@@ -24,7 +24,8 @@
 
 # dmeetup
 
-Decentralized Version of Meetup with Token Incentives for the Community Members.
+Decentralized version of Meetup with token incentives for the community members.
+Steemit for on-site and on-line events and workshops.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -53,7 +54,7 @@ Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 ## Getting Started
 
-dmeetup is an EOS based application that allows people to publish on-site and online meetup events and workshops, you will be able to build a reputation and get rewarded in crypto, as well as allowing to charge in crypto for your workshops. We envision the rep system as something similar to steemit. When this is ready we would like to perform an AirDrop on the EOS blockchain.
+dmeetup is an EOS based decentralized application that allows people to publish on-site and online meetup events and workshops. You will be able to build a reputation and get rewarded in crypto. The platform will also allow you to charge in crypto for your workshops. We envision the rep system as something similar to steemit. When this is ready we would like to perform an AirDrop on the EOS blockchain.
 
 It is a 100% open-source and community-driven project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, improving documentation, contributing code, design/ux proposal, economic modeling and helping us improve our community.
 
@@ -61,7 +62,11 @@ The main communication channels for organizing and collaborating are this reposi
 
 The project lead is [@gaboesquivel](https://github.com/gaboesquivel).
 
+[![Introduction to Blockchain](http://take.ms/o1MM9)](https://www.youtube.com/watch?v=sYAktmG1NuA)
+
 ## Contributing
+
+We use a Kanban-style board with built-in triggers to automatically move issues and pull requests across To do, In progress and Done columns. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/dmeetup/projects/1).
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
 
