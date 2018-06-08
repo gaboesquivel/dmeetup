@@ -27,26 +27,28 @@
 Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-  - [Getting Started](#getting-started)
-    - [Why to Contribute?](#why-to-contribute)
-  - [Contributing](#contributing)
-  - [Bug Reporting](#bug-reporting)
-  - [Features](#features)
-    - [Phase 1](#phase-1)
-    - [Phase 2](#phase-2)
-- [Technology](#technology)
-  - [Why EOS ?](#why-eos-)
-  - [EOS.io Application Stack](#eosio-application-stack)
-  - [Building EOS DApps](#building-eos-dapps)
-  - [EOS Documentation](#eos-documentation)
-  - [EOS Storage](#eos-storage)
-  - [IPFS Documentation](#ipfs-documentation)
-  - [React Documentation](#react-documentation)
-  - [About EOS Costa Rica](#about-eos-costa-rica)
-  - [License](#license)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+* [Getting Started](#getting-started)
+  * [Why to Contribute?](#why-to-contribute)
+* [Contributing](#contributing)
+* [Bug Reporting](#bug-reporting)
+* [Features](#features)
+  * [Phase 1](#phase-1)
+  * [Phase 2](#phase-2)
+* [Technology](#technology)
+  * [Why EOS ?](#why-eos-)
+  * [EOS.io Application Stack](#eosio-application-stack)
+  * [Building EOS DApps](#building-eos-dapps)
+  * [EOS Documentation](#eos-documentation)
+  * [EOS Storage](#eos-storage)
+  * [IPFS Documentation](#ipfs-documentation)
+  * [React Documentation](#react-documentation)
+  * [About EOS Costa Rica](#about-eos-costa-rica)
+  * [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -98,7 +100,7 @@ Please report bugs big and small by [opening an issue](issues/new). No possible 
 
 [![Why EOS](https://monosnap.com/image/CDcIfufeYs0rJPH2viNkCJSPV6bY4O.png)](https://www.youtube.com/watch?v=3kqkTYqTvDA)
 
-![EOS Network](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-network.png)
+![EOS Network](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-network.jpg)
 
 ## EOS.io Application Stack
 
