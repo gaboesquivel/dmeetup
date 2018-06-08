@@ -25,7 +25,7 @@
 # dmeetup
 
 Decentralized version of Meetup with token incentives for the community members.  
-Steemit for on-site and on-line events and workshops.
+Steemit for on-site and online events and workshops.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 
