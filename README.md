@@ -74,7 +74,7 @@ There a many reasons to get involved in an open source project like this one. If
 
 ## Bug Reporting
 
-Please report bugs big and small by [opening an issue](issues/new). No possible bug report is too small.
+Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/dmeetup/issues). No possible bug report is too small.
 
 ## Features
 
