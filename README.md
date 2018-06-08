@@ -113,19 +113,10 @@ source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 
 * [Webinar: Building Distributed Apps With EOS.IO Blockchain](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording)
 
-## EOS Documentation
-
-* Install Gollum and run the wiki locally (MacOS).
-
-```
-brew install rbenv ## https://github.com/rbenv/rbenv/
-git clone https://github.com/EOSIO/eos.wiki.git
-rbenv global/local 2.5.1
-gem install gollum rdiscount --no-ri --no-rdoc
-gollum
-```
+## EOS Documentation & Resources
 
 * https://github.com/EOSIO/eos/wiki
+* https://github.com/EOS-Nation/Awesome-EOS
 
 ## EOS Storage
 
