@@ -30,6 +30,8 @@ Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+## Contents
+
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
 * [Bug Reporting](#bug-reporting)
