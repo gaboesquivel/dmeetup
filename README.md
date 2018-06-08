@@ -27,28 +27,25 @@
 Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-* [Getting Started](#getting-started)
-  * [Why to Contribute?](#why-to-contribute)
-* [Contributing](#contributing)
-* [Bug Reporting](#bug-reporting)
-* [Features](#features)
-  * [Phase 1](#phase-1)
-  * [Phase 2](#phase-2)
-* [Technology](#technology)
-  * [Why EOS ?](#why-eos-)
-  * [EOS.io Application Stack](#eosio-application-stack)
-  * [Building EOS DApps](#building-eos-dapps)
-  * [EOS Documentation](#eos-documentation)
-  * [EOS Storage](#eos-storage)
-  * [IPFS Documentation](#ipfs-documentation)
-  * [React Documentation](#react-documentation)
-  * [About EOS Costa Rica](#about-eos-costa-rica)
-  * [License](#license)
+  - [Getting Started](#getting-started)
+  - [Contributing](#contributing)
+  - [Bug Reporting](#bug-reporting)
+  - [Features](#features)
+    - [Phase 1](#phase-1)
+    - [Phase 2](#phase-2)
+- [Technology](#technology)
+  - [Why EOS ?](#why-eos-)
+  - [EOS.io Application Stack](#eosio-application-stack)
+  - [Building EOS DApps](#building-eos-dapps)
+  - [EOS Documentation](#eos-documentation)
+  - [EOS Storage](#eos-storage)
+  - [IPFS Documentation](#ipfs-documentation)
+  - [React Documentation](#react-documentation)
+  - [About EOS Costa Rica](#about-eos-costa-rica)
+  - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -62,13 +59,11 @@ The main communication channels for organizing and collaborating are this reposi
 
 The project lead is [@gaboesquivel](https://github.com/gaboesquivel).
 
-### Why to Contribute?
-
-There a many reasons to get involved in an open source project like this one. If haven't participated in an open source project before and you are still not sure whether you should, this is presentation is for you. [gaboesquivel.com/slides/eoscostarica-oss.pdf](gaboesquivel.com/slides/eoscostarica-oss.pdf)
-
 ## Contributing
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
+
+There a many reasons to get involved in an open source project like this one. If haven't participated in an open source project before and you are still not sure whether you should, this is presentation is for you. [gaboesquivel.com/slides/eoscostarica-oss.pdf](gaboesquivel.com/slides/eoscostarica-oss.pdf)
 
 ## Bug Reporting
 
