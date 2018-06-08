@@ -27,35 +27,37 @@
 Decentralized Version of Meetup with Token Incentives for the Community Members.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-  - [Getting Started](#getting-started)
-  - [Contributing](#contributing)
-  - [Bug Reporting](#bug-reporting)
-  - [Features](#features)
-    - [Phase 1](#phase-1)
-    - [Phase 2](#phase-2)
-- [Technology](#technology)
-  - [Why EOS ?](#why-eos-)
-  - [EOS.io Application Stack](#eosio-application-stack)
-  - [Building EOS DApps](#building-eos-dapps)
-  - [EOS Documentation](#eos-documentation)
-  - [EOS Storage](#eos-storage)
-  - [IPFS Documentation](#ipfs-documentation)
-  - [React Documentation](#react-documentation)
-  - [About EOS Costa Rica](#about-eos-costa-rica)
-  - [License](#license)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+* [Getting Started](#getting-started)
+* [Contributing](#contributing)
+* [Bug Reporting](#bug-reporting)
+* [Features](#features)
+  * [Phase 1](#phase-1)
+  * [Phase 2](#phase-2)
+* [Technology](#technology)
+  * [Why EOS ?](#why-eos-)
+  * [EOS.io Application Stack](#eosio-application-stack)
+  * [Building EOS DApps](#building-eos-dapps)
+  * [EOS Documentation](#eos-documentation)
+  * [EOS Storage](#eos-storage)
+  * [IPFS Documentation](#ipfs-documentation)
+  * [React Documentation](#react-documentation)
+  * [About EOS Costa Rica](#about-eos-costa-rica)
+  * [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Getting Started
 
-dmeetup is an EOS based application that allows people to publish meetup events and workshop, you will be able to build a reputation and get rewarded in crypto, as well as allowing to charge in crypto for your workshops. We envision the rep system as something similar to steemit. When this is ready we would like to perform an AirDrop on the EOS blockchain.
+dmeetup is an EOS based application that allows people to publish meetup events and workshops, you will be able to build a reputation and get rewarded in crypto, as well as allowing to charge in crypto for your workshops. We envision the rep system as something similar to steemit. When this is ready we would like to perform an AirDrop on the EOS blockchain.
 
-It is an 100% open-source and community-driven project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, contributing code, and helping us improve our community.
+It is a 100% open-source and community-driven project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, contributing code, and helping us improve our community.
 
-The main communication channels for organizing and collaborating are this repository and the EOS Costa Rica Discord server. https://discord.gg/bBpQHym. Feel to join and ask a many questions you may have.
+The main communication channels for organizing and collaborating are this repository and the EOS Costa Rica Discord server. https://discord.gg/bBpQHym. Feel to join and ask as many questions you may have.
 
 The project lead is [@gaboesquivel](https://github.com/gaboesquivel).
 
