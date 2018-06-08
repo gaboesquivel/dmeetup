@@ -24,7 +24,7 @@
 
 # dmeetup
 
-Decentralized version of Meetup with token incentives for the community members.
+Decentralized version of Meetup with token incentives for the community members.  
 Steemit for on-site and on-line events and workshops.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -62,7 +62,7 @@ The main communication channels for organizing and collaborating are this reposi
 
 The project lead is [@gaboesquivel](https://github.com/gaboesquivel).
 
-[![Introduction to Blockchain](http://take.ms/o1MM9)](https://www.youtube.com/watch?v=sYAktmG1NuA)
+[![Introduction to Blockchain](https://monosnap.com/image/GOx4Jv5DSd1H4cl1WDAftR5X5DMQI5.png)](https://www.youtube.com/watch?v=sYAktmG1NuA)
 
 ## Contributing
 
