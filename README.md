@@ -117,6 +117,7 @@ source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 
 * https://github.com/EOSIO/eos/wiki
 * https://github.com/EOS-Nation/Awesome-EOS
+* [EOS Educational Series on YouTube](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
 
 ## EOS Storage
 
