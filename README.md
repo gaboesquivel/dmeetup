@@ -62,8 +62,8 @@ The main communication channels for organizing and collaborating are this reposi
 
 ## Core Team
 
-Project Lead [@gaboesquivel](https://github.com/gaboesquivel).
-DApp Architect [@kevin-wolf](https://github.com/kevin-wolf).
+* Project Lead [@gaboesquivel](https://github.com/gaboesquivel).
+* DApp Architect [@kevin-wolf](https://github.com/kevin-wolf).
 
 [![Introduction to Blockchain](https://monosnap.com/image/GOx4Jv5DSd1H4cl1WDAftR5X5DMQI5.png)](https://www.youtube.com/watch?v=sYAktmG1NuA)
 
