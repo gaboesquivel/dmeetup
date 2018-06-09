@@ -60,7 +60,10 @@ It is a 100% open-source and community-driven project and we welcome contributio
 
 The main communication channels for organizing and collaborating are this repository and the [EOS Costa Rica Discord server](https://discord.gg/bBpQHym). Feel to join and ask as many questions you may have.
 
-The project lead is [@gaboesquivel](https://github.com/gaboesquivel).
+## Core Team
+
+Project Lead [@gaboesquivel](https://github.com/gaboesquivel).
+DApp Architect [@kevin-wolf](https://github.com/kevin-wolf).
 
 [![Introduction to Blockchain](https://monosnap.com/image/GOx4Jv5DSd1H4cl1WDAftR5X5DMQI5.png)](https://www.youtube.com/watch?v=sYAktmG1NuA)
 
