@@ -22,7 +22,7 @@
 	</a>
 </p>
 
-# dmeetup
+# ÐMeetup
 
 Decentralized version of Meetup with token incentives for the community members.  
 Steemit for on-site and online events and workshops.
