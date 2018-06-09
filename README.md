@@ -54,7 +54,7 @@ Steemit for on-site and online events and workshops.
 
 ## Getting Started
 
-dmeetup is an EOS based decentralized application that allows people to publish on-site and online meetup events and workshops. You will be able to build a reputation and get rewarded in crypto. The platform will also allow you to charge in crypto for your workshops. We envision the rep system as something similar to steemit. When this is ready we would like to perform an AirDrop on the EOS blockchain.
+dmeetup is an EOS and IPFS based decentralized application that allows people to publish on-site and online meetup events and workshops. You will be able to build a reputation and get rewarded in crypto. The platform will also allow you to charge in crypto for your workshops. We envision the rep system as something similar to steemit. When this is ready we would like to perform an AirDrop on the EOS blockchain.
 
 It is a 100% open-source and community-driven project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, improving documentation, contributing code, design/ux proposal, economic modeling and helping us improve our community.
 
@@ -119,6 +119,7 @@ source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 ## EOS Documentation & Resources
 
 * https://github.com/EOSIO/eos/wiki
+* https://developers.eos.io/
 * https://github.com/EOS-Nation/Awesome-EOS
 * [EOS Educational Series on YouTube](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
 
@@ -127,10 +128,18 @@ source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 * [5 Reasons Why EOS Storage Will Change Data Storage Forever](https://www.youtube.com/watch?v=7mFzb5SqS9U)
 * [EOS.IO Storage White Paper](https://steemit.com/eos/@eosio/eos-io-storage-white-paper-now-available)
 
+EOS Storage will allow you to host dApps thru EOS APIs, this hasn't been implemented yet, though.
+In the mean time we are going to have use IPFS directly.
+
+* https://ipfs.io/docs/
+* https://github.com/ipfs/awesome-ipfs
+
 ## IPFS Documentation
 
-* [github.com/ipfs/ipfs#how-ipfs-works](https://github.com/ipfs/ipfs#how-ipfs-works)
-* [beta.docs.ipfs.io](https://beta.docs.ipfs.io)
+* https://github.com/ipfs/ipfs#how-ipfs-work
+* https://ipfs.io/docs/
+* https://beta.docs.ipfs.io
+* https://github.com/ipfs/js-ipfs
 
 ## React Documentation
 
