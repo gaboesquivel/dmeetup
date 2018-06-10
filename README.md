@@ -138,6 +138,8 @@ In the mean time we are going to have use IPFS directly.
 * https://beta.docs.ipfs.io
 * https://github.com/ipfs/js-ipfs
 
+[![IFPS Simply Explained](https://monosnap.com/image/PW76DIRPGLOmtWyPEiXK2NvsDHiR4x.png)](https://www.youtube.com/watch?v=5Uj6uR3fp-U)
+
 ## React Documentation
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
