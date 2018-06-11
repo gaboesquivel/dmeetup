@@ -30,28 +30,29 @@
 Decentralized version of Meetup with token incentives for the community members.  
 Steemit for on-site and online events and workshops.
 
+# Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-## Contents
-
 - [Getting Started](#getting-started)
+- [Whitepaper](#whitepaper)
 - [Contributing](#contributing)
 - [Bug Reporting](#bug-reporting)
 - [Features](#features)
   - [Phase 1](#phase-1)
   - [Phase 2](#phase-2)
 - [Technology](#technology)
-  - [Why EOS ?](#why-eos-)
-  - [EOS.io Application Stack](#eosio-application-stack)
-  - [Building EOS DApps](#building-eos-dapps)
-  - [EOS Documentation](#eos-documentation)
-  - [EOS Storage](#eos-storage)
-  - [IPFS Documentation](#ipfs-documentation)
-  - [React Documentation](#react-documentation)
-  - [About EOS Costa Rica](#about-eos-costa-rica)
-  - [License](#license)
+- [Why EOS ?](#why-eos-)
+- [EOS.io Application Stack](#eosio-application-stack)
+- [Building EOS DApps](#building-eos-dapps)
+- [EOS Documentation & Resources](#eos-documentation--resources)
+- [EOS Storage](#eos-storage)
+- [IPFS Documentation](#ipfs-documentation)
+- [React Documentation](#react-documentation)
+- [Core Team](#core-team)
+- [About EOS Costa Rica](#about-eos-costa-rica)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -64,6 +65,14 @@ It is a 100% open-source and community-driven project and we welcome contributio
 The main communication channels for organizing and collaborating are this repository and the [EOS Costa Rica Discord server](https://discord.gg/bBpQHym). Feel to join and ask as many questions you may have.
 
 [![Introduction to Blockchain](https://monosnap.com/image/GOx4Jv5DSd1H4cl1WDAftR5X5DMQI5.png)](https://www.youtube.com/watch?v=sYAktmG1NuA)
+
+## Whitepaper
+
+The whitepaper and economic model are a work in progress
+
+* https://github.com/eoscostarica/dmeetup/issues/4
+* https://github.com/eoscostarica/dmeetup/issues/27
+* https://github.com/eoscostarica/dmeetup/blob/whitepaper/docs/whitepaper.md
 
 ## Contributing
 
