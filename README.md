@@ -30,7 +30,8 @@
 Decentralized version of Meetup with token incentives for the community members.  
 Steemit for on-site and online events and workshops.
 
-# Contents
+## Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
