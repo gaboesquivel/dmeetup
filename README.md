@@ -27,7 +27,7 @@
 
 # ÐMeetup
 
-A decentralized platform and economic system that rewards the community members for organizing meetup events and workshops, both onsite and online. You will be able to build a reputation and get rewarded in crypto. There are also incentives for active members in a community group, not only for the organizers. The platform will allow to charge in crypto for your events and workshop.
+A decentralized platform and economic system that rewards the community members for organizing meetup events and workshops, both onsite and online. You will be able to build a reputation and get rewarded in crypto. There are also incentives for active members in a community group, not only for the organizers. The platform will allow to charge in crypto for your events and workshops.
 
 It's a decentralized version of [Meetup](https://meetup.com) with token incentives for the community members.  
 A version of [Steemit](https://steemit.com) for on-site and online events and workshops.
