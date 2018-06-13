@@ -27,8 +27,10 @@
 
 # ÐMeetup
 
-Decentralized version of Meetup with token incentives for the community members.  
-Steemit for on-site and online events and workshops.
+A decentralized platform and economic system that rewards the community members for organizing meetup events and workshops, both onsite and online. You will be able to build a reputation and get rewarded in crypto. There are also incentives for active members in a community group, not only for the organizers. The platform will allow to charge in crypto for your events and workshop.
+
+It's a decentralized version of [Meetup](https://meetup.com) with token incentives for the community members.  
+A version of [Steemit](https://steemit.com) for on-site and online events and workshops.
 
 ## Contents
 
@@ -76,7 +78,7 @@ The whitepaper and economic model are a work in progress
 
 We use a Kanban-style board with built-in triggers to automatically move issues and pull requests across New Issues, To Do, In Progress and Done columns. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/dmeetup/projects/1).
 
-We follow the [open source collaborative ettiquete](https://github.com/rstacruz/collaborative-etiquette/blob/master/README.md#top) and the [standardjs code style](https://standardjs.com).
+We follow the [open source collaborative ettiquete](https://github.com/rstacruz/collaborative-etiquette/blob/master/README.md#top), the [standardjs code style](https://standardjs.com) and we favor [functional javascript programming](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) over object oriented programming.
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
 
@@ -140,6 +142,43 @@ In the mean time we are going to have use IPFS directly.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 [docs/create-react-app.md](docs/create-react-app.md)
+
+** ÐMeetup App Components **
+
+- [react-app-rewired](https://github.com/timarney/react-app-rewired) for tweaking `create-react-app` configuration without ejecting
+- [reach-router](https://github.com/reach/router) for a more accessible router.
+- state management with [rematch](https://github.com/rematch/rematch) to use `redux` best practices without all the boilerplate.
+- [grid-styled](https://github.com/jxnblk/grid-styled) for a flexbox grid built on top of `styled-components` and [system-components](https://github.com/jxnblk/styled-system/tree/master/system-components) for a consistent design system.
+
+## Project Directory Structure
+
+```
+.																	root dir holds all project config files
+├── docs													documentation files and media
+├── public                        all application source files
+└── src
+		├── core                      core reusable shared components
+		│   ├── components
+		│   ├── constants
+		│   ├── layouts
+		│   ├── store
+		│   └── utils
+		├── index.js
+		├── meetups                   meetup specific components
+		│   ├── components
+		│   ├── constants
+		│   ├── models
+		│   └── routes
+		└── serviceWorker.js
+```
+
+## Continuous Integration Process
+
+We follow a continuous integration process based on Github flow that leverages the following tools:
+
+- [TravisCI](https://travis-ci.org/) to run test and code style checks
+- [Netlify](https://netlify.com) for continuous delivery to the stanging server and creation pull request specific environments for testing. awesome!
+- [Code Factor](https://codefactor.io) for automated code quality reviews.
 
 ## Core Team
 
