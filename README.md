@@ -83,6 +83,8 @@ We follow the [open source collaborative ettiquete](https://github.com/rstacruz/
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
 
+Our weekly sync call is every Monday 7pm-8pm CST on google hangouts. [Go to hangouts room](https://hangouts.google.com/hangouts/_/gaboesquivel.com/dmeetup)
+
 There a many reasons to get involved in an open source project like this one. If haven't participated in an open source project before and you are still not sure whether you should, this is presentation is for you. [eoscostarica-oss.pdf](https://gaboesquivel.com/slides/eoscostarica-oss.pdf)
 
 ## Bug Reporting
