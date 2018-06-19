@@ -143,7 +143,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [docs/create-react-app.md](docs/create-react-app.md)
 
-** ÐMeetup App Components **
+**ÐMeetup App Components**
 
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) for tweaking `create-react-app` configuration without ejecting
 - [reach-router](https://github.com/reach/router) for a more accessible router.
@@ -153,23 +153,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Directory Structure
 
 ```
-.																	root dir holds all project config files
-├── docs													documentation files and media
-├── public                        all application source files
-└── src
-		├── core                      core reusable shared components
-		│   ├── components
-		│   ├── constants
-		│   ├── layouts
-		│   ├── store
-		│   └── utils
-		├── index.js
-		├── meetups                   meetup specific components
-		│   ├── components
-		│   ├── constants
-		│   ├── models
-		│   └── routes
-		└── serviceWorker.js
+.
+├── docs/ .............................................. documentation files and media
+├── public/ ............................................ static and public files
+├── src/ ............................................... application source code (we will cover in detail soon)
+├── CONTRIBUTING.md .................................... contributing guidelines
+├── LICENSE ............................................ project license
+├── README.md .......................................... project homepage
+├── package.json ....................................... dependencies manifest
+├── docker-compose.yaml ................................ docker compose for local smart contracts development
+├── config-overrides.js ................................ configuration overrides for `create-react-app`
+├── netlify.toml ....................................... netlify configuration file
+├── .env ............................................... environment variables (for local development)
+├── .eslintrc .......................................... code style rules
+└── .travis.yml ........................................ travis ci configuration file
 ```
 
 ## Continuous Integration Process
