@@ -59,9 +59,9 @@ Steemit for on-site and online events and workshops.
 
 ## Getting Started
 
-dmeetup is an EOS and IPFS based decentralized application that allows people to publish on-site and online meetup events and workshops. You will be able to build a reputation and get rewarded in crypto. The platform will also allow you to charge in crypto for your workshops. We envision the rep system as something similar to steemit. When this is ready we would like to perform an AirDrop on the EOS blockchain.
+dmeetup is an EOS and IPFS based decentralized application that allows people to publish on-site and online meetup events and workshops. You will be able to build a reputation and get rewarded in crypto. The platform will also allow you to charge in crypto for your workshops. We envision a reputation system similar to steemit. 
 
-It is a 100% open-source and community-driven project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, improving documentation, contributing code, design/ux proposal, economic modeling and helping us improve our community.
+It is a 100% open-source and community-driven project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, proposing features, improving documentation, contributing code, design/ux proposals, refining the economic model and helping us improve our community.
 
 The main communication channels for organizing and collaborating are this repository and the [EOS Costa Rica Discord server](https://discord.gg/bBpQHym). Feel to join and ask as many questions you may have.
 
@@ -77,34 +77,19 @@ The whitepaper and economic model are a work in progress
 
 ## Contributing
 
-We use a Kanban-style board with built-in triggers to automatically move issues and pull requests across To do, In progress and Done columns. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/dmeetup/projects/1).
+We use a Kanban-style board with built-in triggers to automatically move issues and pull requests across New Issues, To Do, In Progress and Done columns. That's were we prioritize the work. [Go to Project Board](https://github.com/eoscostarica/dmeetup/projects/1).
 
 We follow the [open source collaborative ettiquete](https://github.com/rstacruz/collaborative-etiquette/blob/master/README.md#top) and the [standardjs code style](https://standardjs.com).
 
 Read the [contributing guidelines](CONTRIBUTING.md) for details.
 
-Our weekly sync call is every Monday 7pm-8pm CST on google hangouts. [Go to hangouts room](https://hangouts.google.com/hangouts/_/gaboesquivel.com/dmeetup)
+Our weekly sync call is every Monday 7pm-8pm CST on google hangouts. [Go to hangouts room](http://bit.ly/dmeetup-call)
 
 There a many reasons to get involved in an open source project like this one. If haven't participated in an open source project before and you are still not sure whether you should, this is presentation is for you. [eoscostarica-oss.pdf](https://gaboesquivel.com/slides/eoscostarica-oss.pdf)
 
 ## Bug Reporting
 
 Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/dmeetup/issues). No possible bug report is too small.
-
-## Features
-
-### Phase 1
-
-- Accounts
-- User posts a meetup event and tags it
-- User makes a reservation to the meetup event
-- User votes up the meetup ( reputation )
-- Events feed with filters
-
-### Phase 2
-
-- User pays to rsvp the meetup
-- Token rewards for the speakers/organizers
 
 # Technology
 
@@ -165,6 +150,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Project Lead [@gaboesquivel](https://github.com/gaboesquivel).
 - ÐApp Architect [@kevin-wolf](https://github.com/kevin-wolf).
+- UI/UX [@murillojorge](https://github.com/murillojorge).
 
 ## About EOS Costa Rica
 
@@ -174,9 +160,9 @@ EOS Costa Rica supports the global and local open source efforts and development
 
 We challenge ourselves to provide the EOS platform with a strong geographical and political diversity by running the most robust EOS Block Producer possible from Costa Rica; We pledge to leverage our talent, experience, and sustainable internet resources to meet such an important challenge.
 
-[eoscostarica.com](https://eoscostarica.com)
+[eoscostarica.io](https://eoscostarica.io)
 
 ## License
 
-MIT © [EOS Costa Rica](https://eoscostarica.com)  
+MIT © [EOS Costa Rica](https://eoscostarica.io)  
 See LICENSE for more info
