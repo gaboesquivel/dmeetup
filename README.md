@@ -36,24 +36,21 @@ Steemit for on-site and online events and workshops.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Getting Started](#getting-started)
-- [Whitepaper](#whitepaper)
-- [Contributing](#contributing)
-- [Bug Reporting](#bug-reporting)
-- [Features](#features)
-  - [Phase 1](#phase-1)
-  - [Phase 2](#phase-2)
+  - [Getting Started](#getting-started)
+  - [Whitepaper](#whitepaper)
+  - [Contributing](#contributing)
+  - [Bug Reporting](#bug-reporting)
 - [Technology](#technology)
-- [Why EOS ?](#why-eos-)
-- [EOS.io Application Stack](#eosio-application-stack)
-- [Building EOS DApps](#building-eos-dapps)
-- [EOS Documentation & Resources](#eos-documentation--resources)
-- [EOS Storage](#eos-storage)
-- [IPFS Documentation](#ipfs-documentation)
-- [React Documentation](#react-documentation)
-- [Core Team](#core-team)
-- [About EOS Costa Rica](#about-eos-costa-rica)
-- [License](#license)
+  - [Why EOS ?](#why-eos-)
+  - [EOS.io Application Stack](#eosio-application-stack)
+  - [Building EOS DApps](#building-eos-dapps)
+  - [EOS Documentation & Resources](#eos-documentation--resources)
+  - [EOS Storage](#eos-storage)
+  - [IPFS Documentation](#ipfs-documentation)
+  - [React Documentation](#react-documentation)
+  - [Core Team](#core-team)
+  - [About EOS Costa Rica](#about-eos-costa-rica)
+  - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
