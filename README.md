@@ -21,7 +21,7 @@
 
 <p align="center">
 	<a href="https://eoscostarica.io">
-		<img src="https://github.com/eoscostarica/assets/blob/master/logos/eoscolors-transparent.png" width="300">
+		<img src="https://cdn.rawgit.com/eoscostarica/assets/574d20a6/logos/eoscolors-transparent.png" width="300">
 	</a>
 </p>
 
@@ -56,7 +56,7 @@ Steemit for on-site and online events and workshops.
 
 ## Getting Started
 
-dmeetup is an EOS and IPFS based decentralized application that allows people to publish on-site and online meetup events and workshops. You will be able to build a reputation and get rewarded in crypto. The platform will also allow you to charge in crypto for your workshops. We envision a reputation system similar to steemit. 
+dmeetup is an EOS and IPFS based decentralized application that allows people to publish on-site and online meetup events and workshops. You will be able to build a reputation and get rewarded in crypto. The platform will also allow you to charge in crypto for your workshops. We envision a reputation system similar to steemit.
 
 It is a 100% open-source and community-driven project and we welcome contributions of all sorts. There are many ways to help, from reporting issues, proposing features, improving documentation, contributing code, design/ux proposals, refining the economic model and helping us improve our community.
 
@@ -84,6 +84,18 @@ Our weekly sync call is every Monday 7pm-8pm CST on google hangouts. [Go to hang
 
 There a many reasons to get involved in an open source project like this one. If haven't participated in an open source project before and you are still not sure whether you should, this is presentation is for you. [eoscostarica-oss.pdf](https://gaboesquivel.com/slides/eoscostarica-oss.pdf)
 
+
+## Quickstart - Local Setup
+
+### Global dependencies
+
+- Docker. Follow this guide: https://docs.docker.com/install.
+-
+
+### Project
+
+
+
 ## Bug Reporting
 
 Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/dmeetup/issues). No possible bug report is too small.
@@ -106,15 +118,13 @@ Please report bugs big and small by [opening an issue](https://github.com/eoscos
 ![](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-application-stack.png)  
 source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 
-## Building EOS DApps
-
-- [Webinar: Building Distributed Apps With EOS.IO Blockchain](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording)
-
 ## EOS Documentation & Resources
 
-- https://github.com/EOSIO/eos/wiki
-- https://developers.eos.io/
+- https://developers.eos.io
+- https://github.com/eoscostarica/eos-dev-learning-resources
+- https://eosio.stackexchange.com
 - https://github.com/EOS-Nation/Awesome-EOS
+- [Webinar: Building Distributed Apps With EOS.IO Blockchain](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording) 
 - [EOS Educational Series on YouTube](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
 
 ## EOS Storage
@@ -162,4 +172,3 @@ We challenge ourselves to provide the EOS platform with a strong geographical an
 ## License
 
 MIT © [EOS Costa Rica](https://eoscostarica.io)  
-See LICENSE for more info
