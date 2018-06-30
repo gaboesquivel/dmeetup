@@ -84,18 +84,6 @@ Our weekly sync call is every Monday 7pm-8pm CST on google hangouts. [Go to hang
 
 There a many reasons to get involved in an open source project like this one. If haven't participated in an open source project before and you are still not sure whether you should, this is presentation is for you. [eoscostarica-oss.pdf](https://gaboesquivel.com/slides/eoscostarica-oss.pdf)
 
-
-## Quickstart - Local Setup
-
-### Global dependencies
-
-- Docker. Follow this guide: https://docs.docker.com/install.
--
-
-### Project
-
-
-
 ## Bug Reporting
 
 Please report bugs big and small by [opening an issue](https://github.com/eoscostarica/dmeetup/issues). No possible bug report is too small.
@@ -124,7 +112,7 @@ source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 - https://github.com/eoscostarica/eos-dev-learning-resources
 - https://eosio.stackexchange.com
 - https://github.com/EOS-Nation/Awesome-EOS
-- [Webinar: Building Distributed Apps With EOS.IO Blockchain](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording) 
+- [Webinar: Building Distributed Apps With EOS.IO Blockchain](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording)
 - [EOS Educational Series on YouTube](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
 
 ## EOS Storage
