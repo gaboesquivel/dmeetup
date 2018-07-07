@@ -103,6 +103,9 @@ Please report bugs big and small by [opening an issue](https://github.com/eoscos
 
 ![EOS Network](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-network.jpg)
 
+[![The REAL Difference Between Ethereum and EOS](https://monosnap.com/image/Asv5NiYI9Il7pUegy67KT6TqnqqPgN.png)](https://www.youtube.com/watch?v=YmwZ3xvIyN4)
+
+
 ## EOS.io Application Stack
 
 ![](https://github.com/eoscostarica/dmeetup/blob/master/docs/img/eos-application-stack.png)  
