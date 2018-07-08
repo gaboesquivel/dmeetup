@@ -27,7 +27,7 @@
 
 # ÐMeetup
 
-A decentralized platform and economic system that rewards the community members for organizing meetup events and workshops, both onsite and online. You will be able to build a reputation and get rewarded in crypto. There are also incentives for active members in a community group, not only for the organizers. The platform will allow to charge in crypto for your events and workshops.
+A decentralized platform and economic system that rewards the community members for organizing meetup events and workshops, both onsite and online. You will be able to build a reputation and get rewarded in crypto. There are also incentives for active members in a community group, not only for the organizers. The platform will allow to charge in crypto for your meetup events and workshops.
 
 It's a decentralized version of [Meetup](https://meetup.com) with token incentives for the community members.  
 A version of [Steemit](https://steemit.com) for on-site and online events and workshops.
@@ -115,10 +115,6 @@ source https://steemit.com/eos/@eosio/introducing-eos-io-application-stack
 
 - https://developers.eos.io
 - https://github.com/eoscostarica/eos-dev-learning-resources
-- https://eosio.stackexchange.com
-- https://github.com/EOS-Nation/Awesome-EOS
-- [Webinar: Building Distributed Apps With EOS.IO Blockchain](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording)
-- [EOS Educational Series on YouTube](https://www.youtube.com/channel/UClgHiX4W1yxyohrif0gEllA)
 
 ## EOS Storage
 
@@ -180,10 +176,9 @@ We follow a continuous integration process based on Github flow that leverages t
 - [Netlify](https://netlify.com) for continuous delivery to the stanging server and creation pull request specific environments for testing. awesome!
 - [Code Factor](https://codefactor.io) for automated code quality reviews.
 
-## Core Team
+## Maintainers
 
 - Project Lead [@gaboesquivel](https://github.com/gaboesquivel).
-- ÐApp Architect [@kevin-wolf](https://github.com/kevin-wolf).
 - UI/UX [@murillojorge](https://github.com/murillojorge).
 
 ## About EOS Costa Rica
