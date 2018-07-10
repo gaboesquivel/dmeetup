@@ -142,6 +142,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [docs/create-react-app.md](docs/create-react-app.md)
 
+[![Alt text](https://monosnap.com/image/thWXLTTerX96Rnn8IhqujvNvlx5wa1.png)](https://www.youtube.com/watch?v=WsmgDnHOWh4)
+
 **ÐMeetup App Components**
 
 - [react-app-rewired](https://github.com/timarney/react-app-rewired) for tweaking `create-react-app` configuration without ejecting
