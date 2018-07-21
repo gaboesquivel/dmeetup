@@ -1,31 +1,36 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Flex } from 'grid-styled'
-import ReactPlaceholder from 'react-placeholder'
+import { Trail } from 'react-spring'
 
-import { propTypes } from 'meetups/constants'
-import MeetupsPlaceholder from './MeetupsPlaceholder'
-import MeetupCard from './MeetupCard'
+import { Grid } from 'core/components'
+import Placeholder from './Placeholder'
+import { MeetupCard } from '../'
 
-const MeetupsList = ({ isLoading, meetups }) => (
-  <Flex wrap='wrap' m={-2}>
-    <ReactPlaceholder
-      showLoadingAnimation
-      ready={!(!meetups.length && isLoading)}
-      customPlaceholder={<MeetupsPlaceholder />}
+const MeetupsList = ({ meetups }) => (
+  <Grid gridTemplateColumns={['1fr', 'repeat(2, 1fr)']}>
+    <Trail
+      keys={meetups.map(({ id }) => id)}
+      from={{ opacity: 0 }}
+      to={{ opacity: 1 }}
     >
-      {meetups.map(meetup => (
-        <Flex key={meetup.id} width={['100%', null, '50%']}>
-          <MeetupCard meetup={meetup} />
-        </Flex>
+      {meetups.map(({ id, title, description }) => styles => (
+        <Grid.Item
+          is={MeetupCard}
+          key={id}
+          id={id}
+          title={title}
+          description={description}
+          style={styles}
+        />
       ))}
-    </ReactPlaceholder>
-  </Flex>
+    </Trail>
+  </Grid>
 )
 
+MeetupsList.Placeholder = Placeholder
+
 MeetupsList.propTypes = {
-  isLoading: PropTypes.bool.isRequired,
-  meetups: PropTypes.arrayOf(propTypes.meetup).isRequired
+  meetups: PropTypes.arrayOf(PropTypes.shape(MeetupCard.propTypes)).isRequired
 }
 
 export default MeetupsList
